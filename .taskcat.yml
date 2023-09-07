@@ -1,5 +1,5 @@
 project:
-  name: quickstart-ct-trend-micro-cloud-one-conformity
+  name: cfn-ps-ct-trend-micro-cloud-one-conformity
   owner: quickstart@amazon.com
   package_lambda: false
 tests:
